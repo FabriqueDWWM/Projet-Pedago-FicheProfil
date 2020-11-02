@@ -12,7 +12,7 @@ Vous avez donc un certain nombre de choix sur le contenu à intégrer sauf pour 
 
 ## Exemple synthétique
 Vous trouverez à cette adresse un exemple synthétique des compétences et du système de mesure, de leurs évolutions. Vous pourrez partir de ce document pour en faire une traduction visuelle en HTML/CSS et toute autre technologie :
-https://docs.google.com/spreadsheets/d/1agjTXNjQLZ9ppXs8jz-_Oi8LosCPNoDPtyTjOCzXdcc/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1jELZQSi_WJcITrUpAoheMmdoEuhK-HvtUUL93htlUgI/edit#gid=1301427035
 
 Choisissez les compétences humaines qui vous paraîtront les mieux adaptées à votre contexte personnel. Inspirez-vous des échanges avec vos camarades.
 
