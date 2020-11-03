@@ -43,4 +43,7 @@ La réalisation de cette maquette sera ponctué d'échanges collectifs et en gro
 ## Ce que ce projet deviendra lorsque vous aurez accompli toutes les tâches...
 Ce projet sera codé dans les prochaines étapes, en HTML et CSS. Il sera connecté à une base de données avec de l'AJAX d'ici quelques temps. Pensez donc que les données pourront évoluer et que les éléments de l'interface pourraient changer ou être interactifs.
 Les compétences que vous aborderez dans ce projet dans sa globalité seront : 
-> maquetter une application, développer une interface utilisateur adaptative, créer une base de données et créer un composant d'accès aux données.
+> maquetter une application
+> développer une interface utilisateur adaptative
+> créer une base de données
+> créer un composant d'accès aux données.
