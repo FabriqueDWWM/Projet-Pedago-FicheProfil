@@ -25,22 +25,25 @@ Nous vous proposons un cadre pour mesurer l'évolution de l'acquisition de chacu
 - pour les savoir-être, il n'y a pas de niveaux mais plutôt des incrémentations. Il s'agit de vous permettre de voir votre profil dans un contexte professionnel et/ou de formation dans le numérique.
   
 ### Mesurer l'évolution des compétences métier et techniques
-Lors des évaluation, des projets, des veilles, des exercices, vous serez amené.e.s utiliser cette fiche pour y faire évoluer les compétences acquises.
+Lors des évaluations, des projets, des veilles, des exercices, vous serez amené.e.s utiliser cette fiche pour y faire évoluer les compétences acquises.
   
 ### Mesurer les compétences humaines (savoir-être)
 Les compétences humaines ont des niveaux incrémentés sans limite en nombre. Si vous êtes vraiment, vraiment, vraiment super sympa alors vous aurez vraiment, vraiment, vraiment beaucoup de niveaux dedans ;).
   
 ## Synthèse des tâches à réaliser
 1 - S'inspirer (en groupe)
-Imaginez ce que pourrait être l'UI de votre fiche profil. Recherchez de l'inspiration sur le net, compilez la et échangez avec vos camarades pour peser le pour et le contre de ce que vous avez identifié. Au terme de ce travail vous devriez avoir des idées plus précises sur comment représenter et gérer les différentes présentations qui vous sont demandées.
+
+Imaginez ce que pourrait être l'UI de votre fiche profil. Recherchez de l'inspiration sur le net, compilez-la et échangez avec vos camarades pour peser le pour et le contre de ce que vous avez identifié. Au terme de ce travail vous devriez avoir des idées plus précises sur comment représenter et gérer les différentes présentations qui vous sont demandées.
 - Temps de recherche : 30 minutes
 - Temps d'échanges : 30 minutes
   
 2 - Réaliser votre UI sur Figma (individuel avec le soutien du groupe)
-A partir des discussions en groupe vous réaliserez une maquette sur Figma. Chaque personne devra avoir sa maquette. Mainteinez le lien avec le groupe pour échanger sur vos difficultés, vos idées, ce que vous pourriez imaginer de différent, etc.
+
+A partir des discussions en groupe vous réaliserez une maquette sur Figma. Chaque personne devra avoir sa maquette. Maintenez le lien avec le groupe pour échanger sur vos difficultés, vos idées, ce que vous pourriez imaginer de différent, etc.
   
 3 - Comparer, évoluer
-La réalisation de cette maquette sera ponctué d'échanges collectifs et en groupe pour éprouver vos choix et vous amener à évoluer vers une interface fonctionnelle.
+
+La réalisation de cette maquette sera ponctuée d'échanges collectifs et en groupe pour éprouver vos choix et vous amener à évoluer vers une interface fonctionnelle.
   
 ## Ce que ce projet deviendra lorsque vous aurez accompli toutes les tâches...
 Ce projet sera codé dans les prochaines étapes, en HTML et CSS. Il sera connecté à une base de données avec de l'AJAX d'ici quelques temps. Pensez donc que les données pourront évoluer et que les éléments de l'interface pourraient changer ou être interactifs.
