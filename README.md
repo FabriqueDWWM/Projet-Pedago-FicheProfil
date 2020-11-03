@@ -35,6 +35,7 @@ Les compétences humaines ont des niveaux incrémentés sans limite en nombre. S
 Imaginez ce que pourrait être l'UI de votre fiche profil. Recherchez de l'inspiration sur le net, compilez la et échangez avec vos camarades pour peser le pour et le contre de ce que vous avez identifié. Au terme de ce travail vous devriez avoir des idées plus précises sur comment représenter et gérer les différentes présentations qui vous sont demandées.
 - Temps de recherche : 30 minutes
 - Temps d'échanges : 30 minutes
+  
 2 - Réaliser votre UI sur Figma (individuel avec le soutien du groupe)
 A partir des discussions en groupe vous réaliserez une maquette sur Figma. Chaque personne devra avoir sa maquette. Mainteinez le lien avec le groupe pour échanger sur vos difficultés, vos idées, ce que vous pourriez imaginer de différent, etc.
   
