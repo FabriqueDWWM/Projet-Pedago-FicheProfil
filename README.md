@@ -37,7 +37,7 @@ Imaginez ce que pourrait être l'UI de votre fiche profil. Recherchez de l'inspi
 - Temps d'échanges : 30 minutes
 2 - Réaliser votre UI sur Figma (individuel avec le soutien du groupe)
 A partir des discussions en groupe vous réaliserez une maquette sur Figma. Chaque personne devra avoir sa maquette. Mainteinez le lien avec le groupe pour échanger sur vos difficultés, vos idées, ce que vous pourriez imaginer de différent, etc.
-- Temps de réalisation : jusqu'à 16h30
+  
 3 - Comparer, évoluer
 La réalisation de cette maquette sera ponctué d'échanges collectifs et en groupe pour éprouver vos choix et vous amener à évoluer vers une interface fonctionnelle.
   
